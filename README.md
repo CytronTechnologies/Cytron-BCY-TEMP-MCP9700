@@ -1,5 +1,5 @@
 # Cytron-BCY-TEMP-MCP9700
-Cytron [BCY-TEMP-MCP9700]() Thermistor Sensor 
+Cytron [BCY-TEMP-MCP9700]() Thermistor Sensor example code for Arduino, CircuitPython and MicroPython.
 
 ## Requirements  
 To get started, you will need the following hardware and software:  
@@ -18,7 +18,5 @@ For more information on the BCY-TEMP-MCP9700, check out other resources here:
 
 ## Support
 If you need further assistance, we welcome you to our [technical forum](http://forum.cytron.io) or you can contact us through email support@cytron.io where our team will be happy to assist you. 
-
-Let's start building with [Cytron Product Name]!
 
 
